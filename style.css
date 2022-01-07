@@ -1,0 +1,218 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.section1{
+   display: flex;
+   margin-top: 5px;
+   margin-left:20px ;
+   margin-right:65px ;
+   width: 100%;
+    
+}
+
+.Focused{
+    font-size: 45px;
+    font-weight: 700px;
+    border-left: 4px solid blue;
+    margin: 30px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.Mission{
+    color: blue;
+}
+
+.Stay img{
+    height: 400px;
+    width: 410px;
+    padding-top:30px ;
+    padding-bottom: 40px;
+    padding-left: 250px;
+    padding-right: 50px;
+}
+
+.Staying{
+    text-align: justify;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.button{
+    text-decoration: none;
+    font-weight: 700px;
+    background-image: linear-gradient(rgba(0, 60, 255, 0.5),rgb(0, 204, 255));
+    color: white;
+    margin-left: 30px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.My{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#box{
+    display: flex;
+    margin-left: 30px;
+}
+
+.card{
+    width: 30%;
+    margin: 22px;
+    padding-inline:35px;
+    border-radius: 22px;
+    margin-left: 8px;
+}
+
+.card img{
+    width: 150px;
+    padding-top: 15px;
+}
+
+#card1{
+    background-color: rgba(122, 243, 203, 0.267);
+    padding-left: 40px;
+}
+
+#card2{
+    background-color: rgba(216, 112, 147, 0.342);
+}
+
+#card3{
+    background-color: rgba(218, 165, 32, 0.37);
+}
+
+#Skill{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:50px 90px;
+    background-size: 200px;
+    margin-left: 20px;
+}
+
+#Development img{
+     height: 330x;
+     width: 350px;
+     padding-left: 130px;
+     padding-top: 40px;
+}
+
+.Develop{
+    padding-left:180px;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.Personal{
+    text-align: justify;
+    padding-left: 180px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+#button2{
+    margin-top: 40px;
+    margin-left: 175px;
+}
+
+#Connecting{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right 320px;
+    background-size:140px ;
+    margin-right: 100px;
+    
+}
+
+#Connecting img{
+    height: 330px;
+    width:320px ;
+    padding-right: 80px;
+    padding-top:90px ;
+}
+
+#Ability{
+    text-align: justify;
+    padding-right: 200px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+
+#Maintain{
+    font-size: 35px;
+    font-weight: bold;
+    padding-top:15px ;
+    padding-left: 30px;
+}
+
+#Serve img{
+     height:400px ;
+     width:00px ;
+     padding-left:80px ;
+     padding-top: 100px;
+}
+
+#Free{
+    display: flex;
+
+}
+
+#Poor{
+    font-size: 32px;
+    padding-top: 30px;
+    padding-left: 300px;
+}
+
+
+#Personal{
+    padding-left: 180px;
+    padding-bottom: 20px;
+    text-align: justify;
+    padding-right: 30px;
+}
+
+#Camp{
+    padding-left: 300px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+#Doctors img{
+    margin-left: 200px;
+    padding-top: 100px;
+    height: 250px;
+    width: 300px;
+}
+
+#button4{
+    margin-left: 300px;
+}
+
+#Determination{
+    text-align: center;
+    color: white;
+}
+
+#MN{
+    margin-top: 200px;
+    font-family: 'Lobster', cursive;
+    color:white;
+}
+
+footer{
+    margin: 0px;
+    background-color: black;
+    padding-block:0px;
+}
+
